@@ -1,0 +1,34 @@
+{
+  "name": "occaecatiea",
+  "description": "Extension interface for Houdoku, a manga reader for the desktop",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JairoCarroll/occaecatiea.git"
+  },
+  "author": "WillardDouglas",
+  "license": "MIT",
+  "keywords": [
+    "manga",
+    "vitae",
+    "sint",
+    "extensions",
+    "corrupti",
+    "typescript",
+    "velit"
+  ],
+  "homepage": "https://github.com/JairoCarroll/occaecatiea.git",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.10",
+    "typescript": "^4.8.3"
+  }
+}
